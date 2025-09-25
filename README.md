@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oii, sou a Mickaela Freitas. Seja bem vindo(a) ao meu Git! </h1>
+<h1 align="center">👋😁Oii, sou a Mickaela Freitas. Seja bem vindo(a) ao meu Git! </h1>
 
 <p align="center">
   💻 Desenvolvedora Web • 🎓 Graduanda em Ciência da Computação • 🛠 Apaixonada por criar soluções acessíveis e inovadoras
@@ -9,8 +9,9 @@
 ## 🌸 Sobre mim
 <br>🎓 Cursando **Bacharelado em Ciência da Computação** – IFMA *(2023 – 2027)*
 <br>🎓 Cursando **Técnico em Informática** – IFMA *(2020 – 2025)*
-<br>🚀 Buscando um estágio para aplicar meus conhecimentos em programação e desenvolvimento de software, com foco em **desenvolvimento web e mobile**.
 <br>💡 Experiência no desenvolvimento do projeto acadêmico **SINALIZA**, uma plataforma para facilitar o aprendizado de Libras.
+<br>
+<br>🚀 Buscando um estágio para aplicar meus conhecimentos em programação e desenvolvimento de software, com foco em **desenvolvimento web e mobile**.
 <br>📌 Interesse em **Desenvolvimento Frontend, Design Inclusivo** e **Tecnologias Assistivas**.
 
 ---
@@ -35,8 +36,8 @@ Atuei no desenvolvimento do projeto acadêmico [SINALIZA](https://sinaliza.verce
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mickaevy&show_icons=true&rank_icon=github&count_private=true&theme=catppuccin_latte&hide_border=true" height="150" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickaevy&theme=catppuccin_latte&hide_border=true" height="150" alt="stats graph"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mickaevy&show_icons=true&rank_icon=github&count_private=true&theme=rose_pine&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://git-hub-streak-stats.vercel.app/?user=mickaevy&theme=rose_pine&hide_border=true" height="150" alt="stats graph"/><br>
 </div>
 
 ---
